@@ -1,6 +1,6 @@
 A simple [Next.js](https://nextjs.org) chatbot app to demonstrate the use of the Vercel AI Gateway with the [AI SDK](https://sdk.vercel.ai).
 
-## Getting Started
+## Getting Starte
 
 ### One-time setup
 
