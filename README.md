@@ -9,7 +9,7 @@ A simple [Next.js](https://nextjs.org) chatbot app to demonstrate the use of the
 1. Clone this repository with the Deploy button above
 1. Install the [Vercel CLI](https://vercel.com/docs/cli) if you don't already have it
 1. Clone the repository you created above: `git clone <repo-url>`
-1. Link it to a Vercel project: `vc link` or `vc deploy`
+1. Link it to a Vercel project: `vc link` or `vc 
 
 ### Usage
 1. Install packages with `pnpm i` (or `npm i` or `yarn i`) and run the development server with `vc dev`
